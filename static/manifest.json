@@ -1,0 +1,10 @@
+{
+  "name": "Cahyo Blog",
+  "short_name": "Todo App",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2879ea",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
