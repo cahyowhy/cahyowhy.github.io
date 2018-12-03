@@ -4,7 +4,7 @@
  *  supaya browser tahu bahwa
  *  ada perubahan terbaru
  */
-const cacheVersion = 'cahyo-blog-v1';
+const cacheVersion = 'cahyo-blog-v2';
 const filesToCache = [
     '/static/vendor/css/gist.min.css',
     '/static/vendor/css/jssocials.css',
@@ -16,6 +16,7 @@ const filesToCache = [
     '/static/vendor/js/jssocials.min.js',
     '/static/vendor/js/magnific.pop.up.min.js',
     '/static/vendor/js/sticky.min.js',
+    '/static/css/js/sticky.min.js',
 ];
 
 self.addEventListener('install', function(event) {
